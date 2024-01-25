@@ -14,4 +14,4 @@
 - **[solid-hooks](https://github.com/thetarnav/solid-hooks)** — React hooks API implemented in SolidJS
 - **[odin-wasm](https://github.com/thetarnav/odin-wasm)** — WASM bindings for [Odin](http://odin-lang.org/), with a WebGL example.
 
-Sometimes I post what I'm working on on [twitter](https://twitter.com/thetarnav).
+Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
