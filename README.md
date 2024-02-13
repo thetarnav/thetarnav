@@ -13,5 +13,6 @@
 - **[glitched-writer](https://github.com/thetarnav/glitched-writer)** — Glitched, text writing js module. *(my first npm package)*
 - **[solid-hooks](https://github.com/thetarnav/solid-hooks)** — React hooks API implemented in SolidJS
 - **[odin-wasm](https://github.com/thetarnav/odin-wasm)** — WASM bindings for [Odin](http://odin-lang.org/), with a WebGL example.
+- **[streaming-markdown](https://github.com/thetarnav/streaming-markdown)** — Streaming markdown à la ChatGPT.
 
 Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
