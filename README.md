@@ -12,6 +12,7 @@
 - **[mxyz-mark](https://github.com/thetarnav/mxyz-mark)** — A simple maze-generation and maze-walking game.
 - **[glitched-writer](https://github.com/thetarnav/glitched-writer)** — Glitched, text writing js module. *(my first npm package)*
 - **[solid-hooks](https://github.com/thetarnav/solid-hooks)** — React hooks API implemented in SolidJS
+- **[force-graph](https://github.com/thetarnav/nothing-but/tree/main/packages/force-graph)** — Simulation and visualisation of a Force-Directed Graph.
 - **[odin-wasm](https://github.com/thetarnav/odin-wasm)** — WASM bindings for [Odin](http://odin-lang.org/), with a WebGL example.
 - **[streaming-markdown](https://github.com/thetarnav/streaming-markdown)** — Streaming markdown à la ChatGPT.
 
