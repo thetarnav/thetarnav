@@ -11,7 +11,7 @@
 - **[solid-hooks](https://github.com/thetarnav/solid-hooks)** — React hooks API implemented in SolidJS.
 - **[force-graph](https://github.com/thetarnav/nothing-but/tree/main/packages/force-graph)** — Simulation and visualisation of a Force-Directed Graph.
 - **[odin-wasm](https://github.com/thetarnav/odin-wasm)** — WASM bindings for Odin, with a WebGL example.
-- **[streaming-markdown](https://github.com/thetarnav/streaming-markdown)** — Streaming markdown à la ChatGPT.
+- **[streaming-markdown](https://github.com/thetarnav/streaming-markdown)** — Streaming markdown parser à la ChatGPT.
 - **[odin-graphql-parser](https://github.com/thetarnav/odin-graphql-parser)** — GraphQL language parser written in Odin.
 
 Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
