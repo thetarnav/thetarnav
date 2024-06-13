@@ -14,6 +14,7 @@
 - **[streaming-markdown](https://github.com/thetarnav/streaming-markdown)** — Streaming markdown parser à la ChatGPT.
 - **[odin-graphql-parser](https://github.com/thetarnav/odin-graphql-parser)** — GraphQL language parser written in Odin.
 - **[grid-graph](https://thetarnav.github.io/grid-graph)** — UI experiment making a graph of nodes and connections on a grid.
+- **[bilang](https://thetarnav.github.io/bilang)** — Experiment with parsing and executing a symbolic language.
 
 Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
 
