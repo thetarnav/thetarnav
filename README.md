@@ -9,7 +9,7 @@
 - **[mxyz-mark](https://mxyz-mark-solid-web.vercel.app)** — A simple maze-generation and maze-walking game.
 - **[glitched-writer](https://github.com/thetarnav/glitched-writer)** — JavaScript library for animated text writing.
 - **[solid-hooks](https://github.com/thetarnav/solid-hooks)** — React hooks API implemented in SolidJS.
-- **[force-graph](https://nothing-but.vercel.app)** — Simulation and visualisation of a Force-Directed Graph.
+- **[force-graph](https://thetarnav.github.io/force-graph)** — Simulation and visualisation of a Force-Directed Graph.
 - **[odin-wasm](https://thetarnav.github.io/odin-wasm)** — WASM bindings for Odin, with a WebGL example.
 - **[streaming-markdown](https://thetarnav.github.io/streaming-markdown)** — Streaming markdown parser à la ChatGPT.
 - **[odin-graphql-parser](https://github.com/thetarnav/odin-graphql-parser)** — GraphQL language parser written in Odin.
