@@ -15,7 +15,7 @@
 - **[odin-graphql-parser](https://github.com/thetarnav/odin-graphql-parser)** — GraphQL language parser written in Odin.
 - **[grid-graph](https://thetarnav.github.io/grid-graph)** — UI experiment making a graph of nodes and connections on a grid.
 - **[bilang](https://thetarnav.github.io/bilang)** — Experiment with parsing and executing a symbolic language.
-- **[tmjs](https://thetarnav.github.io/tmjs)** — An implementation of textmate grammars in JS and a playground for grammar development.
+- **[tmjs](https://thetarnav.github.io/tmjs)** — Textmate grammars implementation in JavaScript and a playground for grammar development.
 
 Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
 
