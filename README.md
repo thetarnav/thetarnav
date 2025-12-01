@@ -1,6 +1,6 @@
 ### hey
 
-#### Here are a couple of projects that I've made or am maintaining:
+#### Here are a couple of projects that I've made/maintain/helped out with:
 
 - **[solid-devtools](https://github.com/thetarnav/solid-devtools)** — Library of developer tools, reactivity debugger & Devtools Chrome extension for visualizing SolidJS reactivity.
 - **[solid-primitives](https://primitives.solidjs.community)** — A library of high-quality primitives that extend SolidJS reactivity.
