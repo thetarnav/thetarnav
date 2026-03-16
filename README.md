@@ -19,7 +19,8 @@
 - **lightning [core](https://github.com/lightning-tv/core) & [solid](https://github.com/lightning-tv/solid)** — SolidJS Framework powered by Lightning Renderer for TV devices.
 - **[odin-lldb](https://github.com/thetarnav/odin-lldb)** — LLDB Script for visualization of Odin builtin data structures.
 - **[GitZ](https://gitz.pages.dev)** — Interactive visualization of git repositories.
-- **[TEN](https://github.com/thetarnav/ten)** — A small constraint logic language experiment.
+- **[bool-sat](https://github.com/thetarnav/bool-sat)** — Boolean satisfiability language experiment.
+- **[ten](https://github.com/thetarnav/ten)** — A small, declarative language experiment.
 
 Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
 
