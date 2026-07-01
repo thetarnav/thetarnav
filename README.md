@@ -22,6 +22,7 @@
 - **[bool-sat](https://github.com/thetarnav/bool-sat)** — Boolean satisfiability language experiment.
 - **[ten](https://github.com/thetarnav/ten)** — A small, declarative language experiment.
 - **[odin-fsw](https://github.com/thetarnav/odin-fsw)** — Cross-platform file system watcher library for Odin.
+- **[odin-bmfont](https://github.com/thetarnav/odin-bmfont)** — Bitmap font parser written in Odin lang.
 
 Sometimes I post what I'm working on to [twitter](https://twitter.com/thetarnav).
 
